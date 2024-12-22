@@ -44,11 +44,15 @@ table {
 	border-collapse: collapse;
 	font-family: Calibri;
 	border-radius:4px;
+	height: 50px;
+  	vertical-align: center;
 }
 
 th, td {
   	padding: 5px;
   	text-align:center;
+	height: 50px;
+  	vertical-align: center;
 }
 
 body:after{
