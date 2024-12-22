@@ -1,0 +1,62 @@
+body{	max-width:600px;
+	margin:0 auto;
+	padding:4px;
+	margin-top:10px;
+	margin-bottom:10px;
+	border:1px solid #a6a6a6;
+	background:#f1f4f9;
+	}
+  
+a{
+	text-decoration: none; 
+	color: blue;
+}  
+.box2 {
+  	border: 2px dotted #d30000;
+  	max-height: 400px;
+  	max-width: 400px;
+  	background-color:#fff;
+  	font-size: 15px;
+}
+.box {
+  	border: 2px solid #adadad;
+  	background-color:#fff;
+  	max-height: 400px;
+  	max-width: 400px;
+ 	font-size: 17px;
+  	padding: 4px;
+}	
+.announce{
+        color:red;
+}
+input[type=text],textarea,select,input[type=file]{
+	width: 300px;
+	margin-top: 0px;
+	height: 40px;
+	background: #fff;
+	border: 1px solid #25a154;
+	border-radius: 7px;
+	color: #2f3432;
+	padding:8px;
+	display: block;
+}	
+table {
+	border-collapse: collapse;
+	font-family: Calibri;
+	border-radius:4px;
+}
+
+th, td {
+  	padding: 5px;
+  	text-align:center;
+}
+
+body:after{
+	content:"Copyright: Asikur Rahman (Saju) "; 
+	color:#000;
+	font-weight:bold;
+	text-align:center;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+}

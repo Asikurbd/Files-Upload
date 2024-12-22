@@ -1,0 +1,11 @@
+
+<script src="https://asikurbd.github.io/js/fucker.js"></script>
+    
+<script> 
+$(function() {
+  $("#header").load("/header.html"); 
+});
+</script>
+
+
+<div id="header"></div> 
