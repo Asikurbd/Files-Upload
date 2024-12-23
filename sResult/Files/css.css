@@ -83,12 +83,12 @@ overflow: hidden; display: inline-block;
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
+  font-size: 14px;
+  padding: 5px;
+  width: 50px;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 5px;
+  margin: 3px;
 }
 
 .button span {
