@@ -78,9 +78,7 @@ overflow: hidden; display: inline-block;
 
 .button {
   	display: inline-block;
-  	border-radius: 4px;
   	background-color: #04AA6D;
-  	border: none;
   	color: #FFFFFF;
   	text-align: center;
   	font-size: 14px;
@@ -89,5 +87,6 @@ overflow: hidden; display: inline-block;
   	cursor: pointer;
   	margin: 4px;
 	border-radius: 8px;
+	border-bottom: 2px solid red;
 }
 
