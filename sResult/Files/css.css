@@ -77,17 +77,18 @@ overflow: hidden; display: inline-block;
 }
 
 .button {
-  display: inline-block;
-  border-radius: 4px;
-  background-color: #f4511e;
-  border: none;
-  color: #FFFFFF;
-  text-align: center;
-  font-size: 14px;
-  padding: 5px;
-  width: 60px;
-  cursor: pointer;
-  margin: 3px;
+  	display: inline-block;
+  	border-radius: 4px;
+  	background-color: #f4511e;
+  	border: none;
+  	color: #FFFFFF;
+  	text-align: center;
+  	font-size: 14px;
+  	padding: 8px;
+  	width: 60px;
+  	cursor: pointer;
+  	margin: 4px;
+	border-radius: 12px;
 }
 
 .button:hover span:after {
