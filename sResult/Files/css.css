@@ -76,7 +76,7 @@ form {
 overflow: hidden; display: inline-block;
 }
 
-.submit {
+.input[type=submit] {
   background-color: #04AA6D;
   border: none;
   color: white;
