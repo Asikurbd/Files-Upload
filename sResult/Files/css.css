@@ -73,7 +73,7 @@ a.button {
     text-decoration: none;
 }
 form {
-overflow: hidden; display: inline-block;
+overflow: hidden; display: inline-block;min-height: 50px; align-self: flex-end; margin-top: auto;
 }
 
 .button {
