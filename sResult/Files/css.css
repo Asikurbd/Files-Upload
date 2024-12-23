@@ -91,7 +91,3 @@ overflow: hidden; display: inline-block;
 	border-radius: 12px;
 }
 
-.button:hover span:after {
-  opacity: 1;
-  right: 0;
-}
