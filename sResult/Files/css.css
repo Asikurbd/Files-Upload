@@ -72,9 +72,7 @@ a.button {
     background-color: buttonface;
     text-decoration: none;
 }
-form {
-overflow: hidden; display: inline-block;min-height: 50px; align-self: flex-end; margin-top: auto;
-}
+
 
 .button {
   	display: inline-block;
