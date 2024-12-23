@@ -45,14 +45,14 @@ table {
 	font-family: Calibri;
 	border-radius:4px;
 	height: 50px;
-  	vertical-align: center;
+  	vertical-align: left;
 }
 
 th, td {
   	padding: 5px;
-  	text-align:center;
+  	text-align:left;
 	height: 50px;
-  	vertical-align: center;
+  	vertical-align: middle;
 }
 
 body:after{
