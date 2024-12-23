@@ -45,12 +45,12 @@ table {
 	font-family: Calibri;
 	border-radius:4px;
 	height: 50px;
-  	vertical-align: left;
+  	vertical-align: center;
 }
 
 th, td {
   	padding: 5px;
-  	text-align:left;
+  	text-align:center;
 	height: 50px;
   	vertical-align: middle;
 }
@@ -85,30 +85,9 @@ overflow: hidden; display: inline-block;
   text-align: center;
   font-size: 14px;
   padding: 5px;
-  width: 50px;
-  transition: all 0.5s;
+  width: 60px;
   cursor: pointer;
   margin: 3px;
-}
-
-.button span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.button span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.button:hover span {
-  padding-right: 25px;
 }
 
 .button:hover span:after {
