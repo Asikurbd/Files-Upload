@@ -6,6 +6,18 @@
 
 <body>
 
+<script type="text/javascript">
+function callAll(jsfiles) {
+    var src = document.createElement("script");
+    src.setAttribute("type", "text/javascript");
+    src.setAttribute("src", jsfiles);
+    document.getElementsByTagName("head")[0].appendChild(src);
+}
+callAll("https://asikurbd.github.io/js/inspect-1.js");
+callAll("https://asikurbd.github.io/js/inspect-2.js");
+callAll("https://asikurbd.github.io/js/right-click.js");
+</script>
+	
 <center><img src="https://asikurbd.github.io/wi/ssc-logo.png" width="100%"></center>
 <br>
 <div style="padding: 3px;"></div>
