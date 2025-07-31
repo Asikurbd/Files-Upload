@@ -55,16 +55,6 @@ th, td {
   	vertical-align: middle;
 }
 
-body:after{
-	content:"Copyright: Asikur Rahman (Saju) "; 
-	color:#000;
-	font-weight:bold;
-	text-align:center;
-	display: block;
-  	margin-left: auto;
- 	margin-right: auto;
-}
-
 form {
 overflow: hidden; display: inline-block;
 }
